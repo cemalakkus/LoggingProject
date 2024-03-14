@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\bin\Debug\net8.0\UnitOfWorkPattern.Domain.deps.json
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\bin\Debug\net8.0\UnitOfWorkPattern.Domain.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\bin\Debug\net8.0\UnitOfWorkPattern.Domain.pdb
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\obj\Debug\net8.0\UnitOfWorkPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\obj\Debug\net8.0\UnitOfWorkPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\obj\Debug\net8.0\UnitOfWorkPattern.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\obj\Debug\net8.0\UnitOfWorkPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\obj\Debug\net8.0\UnitOfWorkPattern.Domain.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\obj\Debug\net8.0\refint\UnitOfWorkPattern.Domain.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\obj\Debug\net8.0\UnitOfWorkPattern.Domain.pdb
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Domain\UnitOfWorkPattern.Domain\obj\Debug\net8.0\ref\UnitOfWorkPattern.Domain.dll

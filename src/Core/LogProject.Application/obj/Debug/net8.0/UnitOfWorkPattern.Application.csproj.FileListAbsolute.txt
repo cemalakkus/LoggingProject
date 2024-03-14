@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\bin\Debug\net8.0\UnitOfWorkPattern.Application.deps.json
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\bin\Debug\net8.0\UnitOfWorkPattern.Application.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\bin\Debug\net8.0\UnitOfWorkPattern.Application.pdb
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\bin\Debug\net8.0\UnitOfWorkPattern.Domain.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\bin\Debug\net8.0\UnitOfWorkPattern.Domain.pdb
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\UnitOfWorkPattern.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\UnitOfWorkPattern.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\UnitOfWorkPattern.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\UnitOfWorkPattern.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\UnitOfWorkPattern.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\UnitOfWorkPattern.Application.csproj.CopyComplete
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\UnitOfWorkPattern.Application.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\refint\UnitOfWorkPattern.Application.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\UnitOfWorkPattern.Application.pdb
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Core\UnitOfWorkPattern.Application\UnitOfWorkPattern.Application\obj\Debug\net8.0\ref\UnitOfWorkPattern.Application.dll

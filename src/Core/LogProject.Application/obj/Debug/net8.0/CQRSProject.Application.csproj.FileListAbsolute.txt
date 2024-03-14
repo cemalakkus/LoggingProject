@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\bin\Debug\net8.0\CQRSProject.Application.deps.json
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\bin\Debug\net8.0\CQRSProject.Application.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\bin\Debug\net8.0\CQRSProject.Application.pdb
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\bin\Debug\net8.0\CQRSProject.Domain.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\bin\Debug\net8.0\CQRSProject.Domain.pdb
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\CQRSProject.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\CQRSProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\CQRSProject.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\CQRSProject.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\CQRSProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\CQRSProject.Application.csproj.CopyComplete
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\CQRSProject.Application.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\refint\CQRSProject.Application.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\CQRSProject.Application.pdb
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Application\CQRSProject.Application\obj\Debug\net8.0\ref\CQRSProject.Application.dll

@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\bin\Debug\net8.0\RepositoryPattern.Application.deps.json
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\bin\Debug\net8.0\RepositoryPattern.Application.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\bin\Debug\net8.0\RepositoryPattern.Application.pdb
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\bin\Debug\net8.0\RepositoryPattern.Domain.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\bin\Debug\net8.0\RepositoryPattern.Domain.pdb
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\RepositoryPattern.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\RepositoryPattern.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\RepositoryPattern.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\RepositoryPattern.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\RepositoryPattern.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\RepositoryPattern.Application.csproj.CopyComplete
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\RepositoryPattern.Application.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\refint\RepositoryPattern.Application.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\RepositoryPattern.Application.pdb
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Application\RepositoryPattern.Application\obj\Debug\net8.0\ref\RepositoryPattern.Application.dll

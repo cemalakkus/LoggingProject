@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\bin\Debug\net8.0\RepositoryPattern.Domain.deps.json
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\bin\Debug\net8.0\RepositoryPattern.Domain.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\bin\Debug\net8.0\RepositoryPattern.Domain.pdb
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\obj\Debug\net8.0\RepositoryPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\obj\Debug\net8.0\RepositoryPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\obj\Debug\net8.0\RepositoryPattern.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\obj\Debug\net8.0\RepositoryPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\obj\Debug\net8.0\RepositoryPattern.Domain.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\obj\Debug\net8.0\refint\RepositoryPattern.Domain.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\obj\Debug\net8.0\RepositoryPattern.Domain.pdb
+C:\Users\DELL\Desktop\RepositoryPattern\src\Core\RepositoryPattern.Domain\RepositoryPattern.Domain\obj\Debug\net8.0\ref\RepositoryPattern.Domain.dll

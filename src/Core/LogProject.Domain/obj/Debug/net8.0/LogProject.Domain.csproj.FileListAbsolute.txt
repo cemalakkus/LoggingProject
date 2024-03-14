@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\bin\Debug\net8.0\LogProject.Domain.deps.json
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\bin\Debug\net8.0\LogProject.Domain.dll
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\bin\Debug\net8.0\LogProject.Domain.pdb
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\obj\Debug\net8.0\LogProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\obj\Debug\net8.0\LogProject.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\obj\Debug\net8.0\LogProject.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\obj\Debug\net8.0\LogProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\obj\Debug\net8.0\LogProject.Domain.dll
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\obj\Debug\net8.0\refint\LogProject.Domain.dll
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\obj\Debug\net8.0\LogProject.Domain.pdb
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Domain\obj\Debug\net8.0\ref\LogProject.Domain.dll

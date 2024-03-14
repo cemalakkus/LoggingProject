@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\bin\Debug\net8.0\LogProject.Infrastructure.deps.json
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\bin\Debug\net8.0\LogProject.Infrastructure.dll
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\bin\Debug\net8.0\LogProject.Infrastructure.pdb
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\obj\Debug\net8.0\LogProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\obj\Debug\net8.0\LogProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\obj\Debug\net8.0\LogProject.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\obj\Debug\net8.0\LogProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\obj\Debug\net8.0\LogProject.Infrastructure.dll
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\obj\Debug\net8.0\refint\LogProject.Infrastructure.dll
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\obj\Debug\net8.0\LogProject.Infrastructure.pdb
+C:\Users\DELL\Desktop\LogProject\src\Infrastructure\LogProject.Infrastructure\obj\Debug\net8.0\ref\LogProject.Infrastructure.dll

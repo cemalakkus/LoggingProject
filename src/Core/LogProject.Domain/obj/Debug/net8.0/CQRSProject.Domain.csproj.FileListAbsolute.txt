@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\bin\Debug\net8.0\CQRSProject.Domain.deps.json
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\bin\Debug\net8.0\CQRSProject.Domain.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\bin\Debug\net8.0\CQRSProject.Domain.pdb
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\obj\Debug\net8.0\CQRSProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\obj\Debug\net8.0\CQRSProject.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\obj\Debug\net8.0\CQRSProject.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\obj\Debug\net8.0\CQRSProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\obj\Debug\net8.0\CQRSProject.Domain.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\obj\Debug\net8.0\refint\CQRSProject.Domain.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\obj\Debug\net8.0\CQRSProject.Domain.pdb
+C:\Users\DELL\Desktop\CQRSProject\src\Core\CQRSProject.Domain\CQRSProject.Domain\obj\Debug\net8.0\ref\CQRSProject.Domain.dll

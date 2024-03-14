@@ -1,0 +1,5 @@
+﻿add migration migration_name
+
+update-database
+
+remove-migration

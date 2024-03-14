@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\bin\Debug\net8.0\LogProject.Application.deps.json
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\bin\Debug\net8.0\LogProject.Application.dll
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\bin\Debug\net8.0\LogProject.Application.pdb
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\bin\Debug\net8.0\LogProject.Domain.dll
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\bin\Debug\net8.0\LogProject.Domain.pdb
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\LogProject.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\LogProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\LogProject.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\LogProject.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\LogProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\LogProject.Application.csproj.CopyComplete
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\LogProject.Application.dll
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\refint\LogProject.Application.dll
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\LogProject.Application.pdb
+C:\Users\DELL\Desktop\LogProject\src\Core\LogProject.Application\obj\Debug\net8.0\ref\LogProject.Application.dll

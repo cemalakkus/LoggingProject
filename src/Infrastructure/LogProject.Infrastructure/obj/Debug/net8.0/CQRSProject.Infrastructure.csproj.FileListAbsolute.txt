@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\bin\Debug\net8.0\CQRSProject.Infrastructure.deps.json
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\bin\Debug\net8.0\CQRSProject.Infrastructure.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\bin\Debug\net8.0\CQRSProject.Infrastructure.pdb
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\obj\Debug\net8.0\CQRSProject.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\obj\Debug\net8.0\CQRSProject.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\obj\Debug\net8.0\CQRSProject.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\obj\Debug\net8.0\CQRSProject.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\obj\Debug\net8.0\CQRSProject.Infrastructure.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\obj\Debug\net8.0\refint\CQRSProject.Infrastructure.dll
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\obj\Debug\net8.0\CQRSProject.Infrastructure.pdb
+C:\Users\DELL\Desktop\CQRSProject\src\Infrastructure\CQRSProject.Infrastructure\CQRSProject.Infrastructure\obj\Debug\net8.0\ref\CQRSProject.Infrastructure.dll

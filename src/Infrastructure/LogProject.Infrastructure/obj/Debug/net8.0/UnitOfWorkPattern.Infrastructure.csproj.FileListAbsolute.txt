@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\bin\Debug\net8.0\UnitOfWorkPattern.Infrastructure.deps.json
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\bin\Debug\net8.0\UnitOfWorkPattern.Infrastructure.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\bin\Debug\net8.0\UnitOfWorkPattern.Infrastructure.pdb
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\obj\Debug\net8.0\UnitOfWorkPattern.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\obj\Debug\net8.0\UnitOfWorkPattern.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\obj\Debug\net8.0\UnitOfWorkPattern.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\obj\Debug\net8.0\UnitOfWorkPattern.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\obj\Debug\net8.0\UnitOfWorkPattern.Infrastructure.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\obj\Debug\net8.0\refint\UnitOfWorkPattern.Infrastructure.dll
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\obj\Debug\net8.0\UnitOfWorkPattern.Infrastructure.pdb
+C:\Users\DELL\Desktop\UnitOfWorkPattern\src\Infrastructure\UnitOfWorkPattern.Infrastructure\UnitOfWorkPattern.Infrastructure\obj\Debug\net8.0\ref\UnitOfWorkPattern.Infrastructure.dll

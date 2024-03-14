@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\bin\Debug\net8.0\RepositoryPattern.Infrastructure.deps.json
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\bin\Debug\net8.0\RepositoryPattern.Infrastructure.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\bin\Debug\net8.0\RepositoryPattern.Infrastructure.pdb
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\obj\Debug\net8.0\RepositoryPattern.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\obj\Debug\net8.0\RepositoryPattern.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\obj\Debug\net8.0\RepositoryPattern.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\obj\Debug\net8.0\RepositoryPattern.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\obj\Debug\net8.0\RepositoryPattern.Infrastructure.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\obj\Debug\net8.0\refint\RepositoryPattern.Infrastructure.dll
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\obj\Debug\net8.0\RepositoryPattern.Infrastructure.pdb
+C:\Users\DELL\Desktop\RepositoryPattern\src\Infrastructure\RepositoryPattern.Infrastructure\RepositoryPattern.Infrastructure\obj\Debug\net8.0\ref\RepositoryPattern.Infrastructure.dll

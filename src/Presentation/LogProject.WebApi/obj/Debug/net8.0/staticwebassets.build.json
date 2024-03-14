@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1cc8hnZRQbio6AR1WaZQRSxy25Cj1y0X/ecMmlyOMQA=",
+  "Source": "LogProject.WebApi",
+  "BasePath": "_content/LogProject.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
